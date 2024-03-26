@@ -1,0 +1,13 @@
+{
+	"name": "react-hooks-polyfill",
+	"dependencies": {
+		"react": "^18.2.0"
+	},
+	"scripts": {
+		"test":"vitest"
+	},
+	"devDependencies": {
+		"@testing-library/react": "^14.2.2",
+		"vitest": "^1.4.0"
+	}
+}
